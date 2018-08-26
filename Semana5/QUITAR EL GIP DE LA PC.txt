@@ -1,0 +1,43 @@
+GIT CONFIG -- GLOBAL --UNSET -ALL USER.NAME
+GIT CONFIG -- GLOBAL --UNSET -ALL USER.EMAIL
+GIT ADD -----AGREGAR ARCHIVOS A REPOSITORIO(TEMPORAL
+GIT COMMINT ----decir a git que los archivos agregados estan listos para llegar al repositorio
+GIT HUB -------subir al repositorio.
+git clone ------pegar el url
+ls
+git push ===> subir mi canbi0
+git pull ===>  obtener la ultima rama del repositorio
+git checkout Rama  =====> para canbiar de rama
+git checkout -b Rama2  ====> crear una rama.
+git dif ===> mostra los canbios 
+git checkout archivo.extencion ====>elimina canbios sonbre el archivo
+gitk ===> abre entorno grafico historial de commits
+
+
+
+cd  FD_Prueba01 
+git checkout -b ---agregar una carpeta en FD_Prueba01
+git checkout -b POO
+git status
+git add .
+git commit -m "Programacion Orientada a Objetos "
+git status
+git origin push
+git config --global user.email "alexdiazdelgado160@hotmail.com"
+git config --global user.name "Alex Diaz"
+git status
+git commit
+git push origin POO
+git bransh -a
+git checkout master
+git checkout POO
+git status
+git add .
+git commit -m "segundo mensaje para POO"
+git push origin POO
+git checkout master
+
+
+
+
+
