@@ -1,0 +1,5 @@
+D18211@idat.edu.pe
+
+enviar trabajo POO archivo en zip
+cargar nombres y apellidos
+
